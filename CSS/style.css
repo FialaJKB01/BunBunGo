@@ -9,7 +9,7 @@ main {
 }
 body {
     margin: 150px;
-    height: 412px;
+    height: device-height;
 }
 header{
     font-size: 50px;
