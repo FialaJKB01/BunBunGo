@@ -13,6 +13,7 @@ html {
     background: linear-gradient(slateblue, lightblue);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 img {
     width: 150px;
