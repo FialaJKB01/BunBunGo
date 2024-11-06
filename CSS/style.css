@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+input {
+    text-align: center;
+}
+main {
+    text-align: center;
+}
+body {
+    margin: 150px;
+    height: 412px;
+}
+header{
+    font-size: 50px;
+    font-family: 'Calibri';
+    text-align: center;
+    button {
+        background: none;
+        border: none;
+    }
+}
+html {
+    background: linear-gradient(slateblue, lightblue);
+}
+button { 
+    font-family: Calibri;
+}
+img {
+    width: 150px;
+}
