@@ -12,6 +12,7 @@ header{
 html {
     background: linear-gradient(slateblue, lightblue);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 img {
     width: 150px;
